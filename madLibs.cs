@@ -42,7 +42,7 @@ namespace MadLibs
       string adverb = Console.ReadLine();
       Console.WriteLine("Type in a name of a place.");
       string place = Console.ReadLine();
-          Console.WriteLine("Type in a different name of a person.");
+      Console.WriteLine("Type in a different name of a person.");
       string name2 = Console.ReadLine();
       Console.WriteLine("Type in a year.");
       string year = Console.ReadLine();
