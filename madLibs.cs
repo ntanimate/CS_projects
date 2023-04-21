@@ -7,8 +7,8 @@ namespace MadLibs
     static void Main(string[] args)
     {
       /*
-      Madlib program ...
-      Ninette: ...
+      Madlib program 
+      Author: Ninette T
       */
 
 
